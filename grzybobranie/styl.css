@@ -1,0 +1,53 @@
+* { 
+    font-family: Helvetica;
+    margin: 0;
+}
+
+.title {
+    background-color: forestgreen;
+    color: white;
+    height: 100px;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+
+.miniaturka {
+    background-color: forestgreen;
+    height: 100px;
+    width: 20%;
+    float: left;
+}
+
+.left {
+    background-color: tan;
+    height: 700px;
+    width: 25%;
+    float: left;
+    
+}
+
+.right {
+    background-color: tan;
+    height: 700px;
+    width: 75%;
+    float: left;
+}
+
+.footer {
+    background-color: forestgreen;
+    color: white;
+    text-align: center;
+    clear: both;
+}
+
+img { 
+    margin: 4px;
+    padding: 5px;
+    border: 1px solid forestgreen;
+    border-radius: 20px;
+}
+
+img:hover { 
+    border: 1px solid maroon;
+}
